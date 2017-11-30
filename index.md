@@ -1,8 +1,11 @@
 <b>Returner classification for users who posted in 10 to 20 sub-Reddits:</b>  
 
-Total users: 1982
-2-returners: 1185, 0.597881%
-4-returners: 1827, 0.921796%
+Total users: 1982  
+
+2-returners: 1185, 0.597881%  
+
+4-returners: 1827, 0.921796%  
+
 8-returners: 1974, 0.995964%
  
 <b>Returner classification for users who posted in 20 to 30 sub-Reddits:</b>
