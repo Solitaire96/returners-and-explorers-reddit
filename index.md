@@ -1,4 +1,14 @@
-<b>Returner classification for users who posted in 10 to 20 sub-Reddits:</b>  
+
+<b>Subreddit diversity of January 2014:</b>
+![all](100_full_distribution.png)
+
+![over 200 posts](100_sample_distribution.png)
+
+![only 30% of previous](30_sample_distribution.png)
+
+In the web browsing data, the proportion of k-returners is 56.3, 93.9 and 99.8% for k = 2, 4, 8 respectively.
+
+<b>Users who posted in 10 to 20 sub-Reddits:</b>  
 
 Total users: 1982  
 
@@ -8,7 +18,7 @@ Total users: 1982
 
 8-returners: 1974, 0.995964%
  
-<b>Returner classification for users who posted in 20 to 30 sub-Reddits:</b>
+<b>Users who posted in 20 to 30 sub-Reddits:</b>
 
 Total users: 1836
 
@@ -18,7 +28,7 @@ Total users: 1836
 
 8-returners: 1820, 0.991285%
  
-<b>Returner classification for users who posted in 30 to 40 sub-Reddits:</b>
+<b>Users who posted in 30 to 40 sub-Reddits:</b>
 
 Total users: 1101
 
@@ -28,7 +38,7 @@ Total users: 1101
 
 8-returners: 1087, 0.987284%
  
-<b>Returner classification for users who posted in 40 to 50 sub-Reddits:</b>
+<b>Users who posted in 40 to 50 sub-Reddits:</b>
 
 Total users: 670
 
@@ -38,7 +48,7 @@ Total users: 670
 
 8-returners: 658, 0.982090%
  
-<b>Returner classification for users who posted in 50 to 60 sub-Reddits:</b>
+<b>Users who posted in 50 to 60 sub-Reddits:</b>
 
 Total users: 321
 
@@ -48,7 +58,7 @@ Total users: 321
 
 8-returners: 306, 0.953271%
  
-<b>Returner classification for users who posted in 60 to 70 sub-Reddits:</b>
+<b>Users who posted in 60 to 70 sub-Reddits:</b>
 
 Total users: 171
 
@@ -58,7 +68,7 @@ Total users: 171
 
 8-returners: 160, 0.935673%
  
-<b>Returner classification for users who posted in 70 to 80 sub-Reddits:</b>
+<b>Users who posted in 70 to 80 sub-Reddits:</b>
 
 Total users: 102
 
@@ -68,7 +78,7 @@ Total users: 102
 
 8-returners: 96, 0.941176%
  
-<b>Returner classification for users who posted in 80 to 90 sub-Reddits:</b>
+<b>Users who posted in 80 to 90 sub-Reddits:</b>
 
 Total users: 54
 
@@ -78,7 +88,7 @@ Total users: 54
 
 8-returners: 51, 0.944444%
  
-<b>Returner classification for users who posted in 90 to 100 sub-Reddits:</b>
+<b>Users who posted in 90 to 100 sub-Reddits:</b>
 
 Total users: 38
 
@@ -87,18 +97,6 @@ Total users: 38
 4-returners: 29, 0.763158%
 
 8-returners: 38, 1.000000%
-
-
-For comparison, in the web browsing data, the proportion of k-returners is 56.3, 93.9 and 99.8% for k = 2, 4, 8 respectively.
-
-
-
-<b>Subreddit diversity of January 2014:</b>
-![all](100_full_distribution.png)
-
-![over 200 posts](100_sample_distribution.png)
-
-![only 30% of previous](30_sample_distribution.png)
 
 <b>Histogram of sk values, where sk is (rg_k / rg), for k=2,4,8:</b>
 
