@@ -106,3 +106,8 @@ Total users: 38
 
 ![s8](s8_hist.png)
 
+For comparison, the sk plots for the web mobility data are:
+
+![web_sk](web_sk.png)
+
+Overall, these plots are quite similar which further reinforces the mobility model hypothesis. I'm considering comparing the two sets of histograms with a two-sample KS test.
